@@ -100,3 +100,5 @@ menu(()=>{
         })
     })
 })
+
+console.log("checking github commit")
